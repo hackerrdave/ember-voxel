@@ -7,6 +7,9 @@ module.exports = function(defaults) {
     // Add options here
   });
 
+  app.import('bower_components/voxel.css/dist/voxel.css');
+  app.import('bower_components/voxel.css/dist/voxelcss.js');
+
   /*
     This build file specifes the options for the dummy test app of this
     addon, located in `/tests/dummy`
