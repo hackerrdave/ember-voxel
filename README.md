@@ -24,3 +24,6 @@ This README outlines the details of collaborating on this Ember addon.
 * `ember build`
 
 For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+
+## Markup
+* `{{voxel-cube height=300 width=300 world="cubeLand"}}`
